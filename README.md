@@ -3,8 +3,16 @@
  
  Install phpadmin via package installer (apt install phpmyadmin),
  then run this script, and you're done.
+ 
+ ### steps
+ 
+ - install if not already done, mysql or mariadb
+ - apt install myphpadmin
+ - wget https://github.com/ShaunMundy/upd-phpmyadmn/blob/main/upd-phpmyadmn.sh
+ - chmod +x upd-phpmyadmn.sh
+ - ./upd-phpmyadmn.sh
 
-## Download
+## download
 
-**[Click here to download latest version](https://github.com/ShaunMundy/upd-phpmyadmn/blob/main/upd-phpmyadmn.zip)**
+**[click here to download latest version](https://github.com/ShaunMundy/upd-phpmyadmn/blob/main/upd-phpmyadmn.zip)**
 
