@@ -7,10 +7,11 @@
  ### steps
  
  - install if not already done, mysql or mariadb
- - apt install phpmyadmin
- - wget https://raw.githubusercontent.com/ShaunMundy/upd-phpmyadmn/main/upd-phpmyadmn.sh
- - chmod +x upd-phpmyadmn.sh
- - ./upd-phpmyadmn.sh
+ - shell commands
+     - apt install phpmyadmin
+     - wget https://raw.githubusercontent.com/ShaunMundy/upd-phpmyadmn/main/upd-phpmyadmn.sh
+     - chmod +x upd-phpmyadmn.sh
+     - ./upd-phpmyadmn.sh
 
 ## download
 
