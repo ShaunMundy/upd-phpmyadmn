@@ -6,5 +6,5 @@
 
 ## Download
 
-**[Click here to download latest version](https://github.com/ShaunMundy/upd-phpmyadmn/blob/main/)**
+**[Click here to download latest version](https://github.com/ShaunMundy/upd-phpmyadmn/blob/main/upd-phpmyadmn.zip)**
 
